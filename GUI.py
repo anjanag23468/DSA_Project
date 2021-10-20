@@ -76,6 +76,7 @@ def buttonClickHandler():
     label9.pack()
     frame2.pack(side='left')
 
+    
 button1 = tk.Button(text='Compress Image', command=buttonClickHandler, bg='brown', fg='white', font=('helvetica', 9, 'bold'))
 canvas1.create_window(200, 380, window=button1)
 
