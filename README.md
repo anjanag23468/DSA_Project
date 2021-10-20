@@ -16,9 +16,11 @@
 
 ## Project Description
 The project aims to achieve image compression using quadtree data structure. The image is recursively divided into quadrants till it reaches the case where the all the neighbouring quadrants occupy same or similar colour.<br>
-Here’s a showreel to understand the working :
+<br> Here’s a showreel to understand the working :<br>
 
-![test_gif](https://github.com/anjanag23468/DSA_Project/blob/main/test_gif.mp4)
+<video width="320" height="240" autoplay>
+  <source src="https://github.com/anjanag23468/DSA_Project/blob/main/test_gif.mp4" type="video/mp4">
+</video>
 
 The image can be compressed at various degrees of compression provided by the user.
 ## Pre-requisites
