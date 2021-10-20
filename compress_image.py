@@ -70,6 +70,7 @@ def checkEqual(myList):
     """
     Checks if all the 4 quadrants of the image are equal
     """
+
     first = myList[0]
     return all((x == first).all() for x in myList)
 
@@ -117,7 +118,6 @@ class QuadTree:
             self.bottom_left.get_image(level),
             self.bottom_right.get_image(level))
 
-   
 
 def compress_image(path, save_name, threshold):
     """
