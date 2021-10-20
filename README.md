@@ -1,6 +1,13 @@
+
 # DSA_Project
-## Image Compression using Quadtree DataStructure
-### [Shwetha Ajay](https://www.example.com) , [Aryan Bhapkar](https://www.example.com), [Anjana Gupta](https://www.example.com), [Karan Manikani](https://www.example.com)
+## Image Compression using Quadtree DataStructure   
+
+
+### **Project Team**
+### [Shwetha Ajay](https://github.com/ShwethaAjay) <br>
+### [Aryan Bhapkar](https://github.com/aaryannb) <br>
+### [Anjana Gupta](https://github.com/anjanag23468) <br>
+### [Karan Manikani](https://github.com/Karan-Manikani) <br>
 
 
 ### Table of Contents
@@ -9,13 +16,15 @@
 **[Guide](#guide)**<br>
 
 ## Project Description
-The project aims to achieve image compression using quadtree data structure. The image is recursively divided into quadrants till it reaches the case where the all the neighbouring quadrants occupy same or similar colour. 
+The project aims to achieve image compression using quadtree data structure. The image is recursively divided into quadrants till it reaches the case where the all the neighbouring quadrants occupy same or similar colour.<br>
 Here’s a showreel to understand the working :
+
+![test_gif](test_gif.mp4)
 
 The image can be compressed at various degrees of compression provided by the user.
 ## Pre-requisites
 
-Pip commands to install the necessary libraries -
+Pip commands to install the necessary libraries -<br>
 **Windows**<br>
 Numpy: pip install numpy<br>
 PIL: pip install pillow<br>
@@ -26,7 +35,9 @@ PIL: pip3 install pillow<br>
 
 ## Guide
 
-Place both files (compress_image.py and GUI.py) in the same folder and then run GUI.py. This should open up a new window as shown below:
+Place both files (compress_image.py and GUI.py) in the same folder and then run GUI.py. This should open up a new window as shown below:<br>
+![test_gif](test_gif.mp4)
+
 
 **Input file format (Enter your file)**
 1. Reads the image file from the specified path. 
