@@ -1,13 +1,12 @@
 
-# DSA_Project
-## Image Compression using Quadtree DataStructure   
-
+<h1 align="center"> DSA Project </h1>   
+<h2 align="center">Image Compression using Quadtree DataStructure </h2>
 
 ### **Project Team**
-### [Shwetha Ajay](https://github.com/ShwethaAjay) <br>
-### [Aryan Bhapkar](https://github.com/aaryannb) <br>
-### [Anjana Gupta](https://github.com/anjanag23468) <br>
-### [Karan Manikani](https://github.com/Karan-Manikani) <br>
+### [Shwetha Ajay](https://github.com/ShwethaAjay) 
+### [Aryan Bhapkar](https://github.com/aaryannb) 
+### [Anjana Gupta](https://github.com/anjanag23468)
+### [Karan Manikani](https://github.com/Karan-Manikani)
 
 
 ### Table of Contents
@@ -19,7 +18,7 @@
 The project aims to achieve image compression using quadtree data structure. The image is recursively divided into quadrants till it reaches the case where the all the neighbouring quadrants occupy same or similar colour.<br>
 Here’s a showreel to understand the working :
 
-![test_gif](test_gif.mp4)
+![test_gif](https://github.com/anjanag23468/DSA_Project/blob/main/test_gif.mp4)
 
 The image can be compressed at various degrees of compression provided by the user.
 ## Pre-requisites
@@ -36,7 +35,7 @@ PIL: pip3 install pillow<br>
 ## Guide
 
 Place both files (compress_image.py and GUI.py) in the same folder and then run GUI.py. This should open up a new window as shown below:<br>
-![test_gif](test_gif.mp4)
+![window_png](https://github.com/anjanag23468/DSA_Project/blob/main/Window.png)
 
 
 **Input file format (Enter your file)**
